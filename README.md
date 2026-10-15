@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy John Byron Alzate 👋</h1>
+<h1 align="center">John Byron Alzate Hernandez</h1>
 
 <p align="center">
   <b>Analista de Datos · Ingeniero Industrial · Especialista en Analítica y Ciencia de Datos</b><br>
@@ -19,8 +19,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 📊 Analista de analítica en el **sector salud**: auditoría de datos de facturación, automatización de reportes y calidad de datos.
-- 🤖 Construyo modelos de **machine learning** de punta a punta: desde la exploración hasta el despliegue con prácticas **MLOps**.
+- 🤖 Constructor de modelos de **machine learning** de punta a punta: desde la exploración hasta el despliegue con prácticas **MLOps**.
 - ⚙️ Me apasiona **automatizar** procesos con Python y crear herramientas que le ahorran horas de trabajo a los equipos.
 - 🎓 Ingeniero Industrial (Universidad Nacional de Colombia) · Especialista en Analítica y Ciencia de Datos (Universidad de Antioquia) · Scrum Master certificado.
 - 🌎 Hablo español nativo e inglés nivel C2.
