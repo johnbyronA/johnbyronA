@@ -38,7 +38,7 @@
 | [**Análisis de datos para el sector energético**](https://github.com/johnbyronA/Prueba_Tecnica_NEU_Energy) | Algoritmos de búsqueda de subconjuntos, almacenamiento en SQLite y app web de consultas. | Python · SQLite · Flask |
 | [**Monografía SISBEN 2017**](https://github.com/johnbyronA/Monografia_Sisben_2017) | Trabajo de grado de la especialización en analítica y ciencia de datos. | Python · Jupyter · ML |
 | [**csv-perfil**](https://github.com/johnbyronA/csv-perfil) | CLI sin dependencias para perfilar archivos CSV (tipos, nulos, estadísticas). Con pruebas y CI. | Python · pytest · GitHub Actions |
-| [**Prueba técnica Ingeniero de Datos**](https://github.com/johnbyronA/Prueba_Tecnica_MVM) | Ejercicios de ingeniería de datos y SQL. | Python · SQL · Jupyter |
+| [**Prueba técnica Ingeniero de Datos**](https://github.com/johnbyronA/Prueba_Tecnica_MVM) | Modelado y consultas SQL, tablero en Power BI y contenedor Docker. | SQL · Power BI · Docker |
 
 ---
 
@@ -52,12 +52,14 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
 
 **Cloud y MLOps:**
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 
 **Desarrollo web y automatización:**
